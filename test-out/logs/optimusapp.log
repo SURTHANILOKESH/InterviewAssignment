@@ -1,0 +1,106 @@
+[INFO ] 2024-03-01 09:59:32.916 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 09:59:35.390 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:00:19.621 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:00:22.202 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:03:19.150 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:03:21.579 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:09:32.319 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:09:33.851 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:09:33.929 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:09:34.036 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:09:35.967 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:23:36.609 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:23:38.535 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:23:38.608 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:23:38.712 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:23:38.741 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:23:38.992 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:23:39.064 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:23:39.134 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:23:59.656 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:23:59.826 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:24:00.019 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:24:00.066 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:24:00.466 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:24:00.633 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:24:05.808 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:24:05.842 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:24:06.225 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:24:06.372 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:24:06.558 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:24:06.601 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:24:06.984 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:24:07.130 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:24:07.256 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:24:07.300 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:24:11.000 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:31:05.902 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:31:07.444 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:31:07.522 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:31:07.622 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:31:07.659 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:31:07.917 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:31:08.005 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:31:08.077 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:31:30.438 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:33:40.325 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:33:42.226 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:33:42.299 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:33:42.405 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:33:42.437 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:33:42.657 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:33:42.730 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:33:42.797 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:34:05.975 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 10:37:44.380 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 10:37:45.876 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:37:45.964 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:37:46.076 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:37:46.084 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 10:37:46.307 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 10:37:46.387 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 10:37:46.456 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 10:37:46.463 [main] com.saucedemo.pageObjects.InventoryPage - Captured URL: https://www.saucedemo.com/
+[INFO ] 2024-03-01 10:38:08.775 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 12:16:04.051 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 12:16:05.606 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:16:05.692 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:16:05.796 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:16:05.806 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:16:06.059 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:16:06.129 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:16:06.200 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:16:06.205 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/
+[INFO ] 2024-03-01 12:16:26.624 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:16:26.783 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:16:26.933 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:16:26.941 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:16:27.383 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/cart.html
+[INFO ] 2024-03-01 12:16:30.645 [main] com.saucedemo.utils.BaseClass - Driver closed.
+[INFO ] 2024-03-01 12:17:39.532 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 12:17:41.094 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:17:41.171 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:17:41.276 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:17:41.287 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:17:41.551 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:17:41.620 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:17:41.695 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:17:41.703 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/
+[INFO ] 2024-03-01 12:18:12.087 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 12:18:13.639 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:18:13.722 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:18:13.832 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:18:13.842 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:18:14.067 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/cart.html
+[INFO ] 2024-03-01 12:19:50.554 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 12:19:52.083 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:19:52.163 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:19:52.275 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:19:52.286 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:19:52.496 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/cart.html
+[INFO ] 2024-03-01 12:22:31.406 [main] com.saucedemo.utils.BaseClass - Chrome driver initialized
+[INFO ] 2024-03-01 12:22:32.841 [main] com.saucedemo.pageObjects.LoginPage - Entered user name.
+[INFO ] 2024-03-01 12:22:32.931 [main] com.saucedemo.pageObjects.LoginPage - Entered password.
+[INFO ] 2024-03-01 12:22:33.044 [main] com.saucedemo.pageObjects.LoginPage - Clicked on login button
+[INFO ] 2024-03-01 12:22:33.053 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/inventory.html
+[INFO ] 2024-03-01 12:22:33.290 [main] com.saucedemo.utils.BaseClass - Captured URL: https://www.saucedemo.com/cart.html
